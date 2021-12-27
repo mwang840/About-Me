@@ -12,11 +12,12 @@ My Current Languages in computer science and non-computer science are
 2.C++
 3.Python
 4.C
-5.Menos espanol
-6.λιγο ελλαδα
-7.Little bit of mandarin
+5.Menos Espanol
+6.λιγο Ελααδα
+7.Little bit of Mandarin
 
 
 
 I am open to learn many new languages as possible
+
 Email: maxwang@udel.edu
